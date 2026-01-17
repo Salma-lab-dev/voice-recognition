@@ -1,0 +1,13 @@
+﻿venv/
+__pycache__/
+*.pyc
+*.pyo
+.env
+.DS_Store
+LibriSpeech/
+*.wav
+*.flac
+*.mp3
+models/*.pkl
+models/*.h5
+*.log
